@@ -1,2 +1,31 @@
-# f18ebfc7-healthcare-appointment-schedul
-n8n workflow automating patient appointment scheduling for clinics and private practices. Integrates with Calendly via webhook, sends SMS reminders via Twilio at 24h and 2h before appointments, handles cancellation and reschedule requests, posts daily appointment summary to Slack, and updates patient records in a Google Sheets log. Supports multi-p
+# Healthcare Appointment Scheduling Automation Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJeeVd8v57Eof447jCcZa2a)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJeeVd8v57Eof447jCcZa2a)
+- [Buy on Gumroad](https://witchcraftguy.gumroad.com/l/xpbgy)
+- [Buy on Whop](https://whop.com/healthcare-appointment-scheduling-automation-workflow)
+
